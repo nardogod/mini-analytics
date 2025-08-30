@@ -5,7 +5,7 @@ Real-time analytics system with modern glassmorphism UI and interactive heatmap 
 
 ## Live Demo
 
-**Deploy:** [Vercel](https://mini-analytics-1ig3.vercel.app/)  
+**Deploy:** [Vercel](https://mini-analytics2025.vercel.app/)  
 **Repository:** [GitHub](https://github.com/nardogod/mini-analytics)
 
 ## Features

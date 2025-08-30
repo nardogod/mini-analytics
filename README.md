@@ -1,10 +1,11 @@
-# Analytics Dashboard LLM made in two hours (estimated time counting planning, design, code adjustment, versioning and deployment)
+# Analytics Dashboard LLM made in two hours 
+(estimated time counting planning, design, code adjustment, versioning and deployment)
 
 Real-time analytics system with modern glassmorphism UI and interactive heatmap tracking.
 
 ## Live Demo
 
-**Deploy:** [Vercel](https://mini-analytics-nardogod.vercel.app)  
+**Deploy:** [Vercel](https://mini-analytics-1ig3.vercel.app/)  
 **Repository:** [GitHub](https://github.com/nardogod/mini-analytics)
 
 ## Features
